@@ -5,7 +5,11 @@ public class Demo1 {
 		// TODO Auto-generated method stub
      int a=20;
      int b= 30;
+     char c='T';
+     String s = "Helloword";
      System.out.println(a+b);
+     System.out.println(s + c +(a+b));
+     
 	}
 
 }
